@@ -1,0 +1,129 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-19 12:37:04 #1 store] 
+Database 'C:\Users\ander\eclipse-workspace\3marroia22\FlightBooking.odb' is opened by 18556@LAPTOP-KMC7QC4S
+
+[2023-03-19 12:37:04 #2 type.registry] 
+New type domain.Flight
+
+[2023-03-19 12:37:04 #3 type] 
+Type domain.Flight is not enhanced.
+
+[2023-03-19 12:37:04 #4 type.registry] 
+New type domain.ConcreteFlight
+
+[2023-03-19 12:37:04 #5 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+[2023-03-19 12:37:04 #6 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2023-03-19 12:37:04 #7 type.registry] 
+New type java.util.ArrayList<domain.ConcreteFlight>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-19 12:37:41 #1 store] 
+Database 'C:\Users\ander\eclipse-workspace\3marroia22\FlightBooking.odb' has been recovered (tr. 1-13)
+
+[2023-03-19 12:37:41 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\3marroia22\FlightBooking.odb' is opened by 1212@LAPTOP-KMC7QC4S
+
+[2023-03-19 12:37:41 #3 type] 
+Type domain.Flight is not enhanced.
+
+[2023-03-19 12:37:41 #4 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-19 12:37:59 #1 store] 
+Database 'C:\Users\ander\eclipse-workspace\3marroia22\FlightBooking.odb' has been recovered (tr. 14-14)
+
+[2023-03-19 12:37:59 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\3marroia22\FlightBooking.odb' is opened by 20376@LAPTOP-KMC7QC4S
+
+[2023-03-19 12:37:59 #3 type] 
+Type domain.Flight is not enhanced.
+
+[2023-03-19 12:37:59 #4 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-19 12:57:11 #1 store] 
+Database 'C:\Users\ander\eclipse-workspace\3marroia22\FlightBooking.odb' is opened by 18132@LAPTOP-KMC7QC4S
+
+[2023-03-19 12:57:11 #2 type] 
+Type domain.Flight is not enhanced.
+
+[2023-03-19 12:57:11 #3 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-19 13:05:57 #1 store] 
+Database 'C:\Users\ander\eclipse-workspace\3marroia22\FlightBooking.odb' is opened by 17576@LAPTOP-KMC7QC4S
+
+[2023-03-19 13:05:57 #2 type] 
+Type domain.Flight is not enhanced.
+
+[2023-03-19 13:05:57 #3 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-19 13:53:03 #1 store] 
+Database 'C:\Users\ander\eclipse-workspace\3marroia22\FlightBooking.odb' is opened by 5460@LAPTOP-KMC7QC4S
+
+[2023-03-19 13:53:03 #2 type] 
+Type domain.Flight is not enhanced.
+
+[2023-03-19 13:53:03 #3 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+[2023-03-19 13:53:07 #4 type.registry] 
+New type javax.xml.datatype.XMLGregorianCalendar
+
+[2023-03-19 13:53:07 #5 type.registry] 
+New type com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-19 14:16:19 #1 store] 
+Database 'C:\Users\ander\eclipse-workspace\3marroia22\FlightBooking.odb' has been recovered (tr. 15-15)
+
+[2023-03-19 14:16:19 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\3marroia22\FlightBooking.odb' is opened by 15596@LAPTOP-KMC7QC4S
+
+[2023-03-19 14:16:19 #3 type] 
+Type domain.Flight is not enhanced.
+
+[2023-03-19 14:16:19 #4 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-19 14:17:35 #1 store] 
+Database 'C:\Users\ander\eclipse-workspace\3marroia22\FlightBooking.odb' has been recovered (tr. 16-16)
+
+[2023-03-19 14:17:35 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\3marroia22\FlightBooking.odb' is opened by 2020@LAPTOP-KMC7QC4S
+
+[2023-03-19 14:17:35 #3 type] 
+Type domain.Flight is not enhanced.
+
+[2023-03-19 14:17:35 #4 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-19 16:16:48 #1 store] 
+Database 'C:\Users\ander\eclipse-workspace\3marroia22\FlightBooking.odb' is opened by 1752@LAPTOP-KMC7QC4S
+
+[2023-03-19 16:16:48 #2 type] 
+Type domain.Flight is not enhanced.
+
+[2023-03-19 16:16:48 #3 type] 
+Type domain.ConcreteFlight is not enhanced.
+
